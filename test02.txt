@@ -3,3 +3,5 @@ name : test02
 pc add develop/deogs
 
 mac modify 
+
+test02 ok
