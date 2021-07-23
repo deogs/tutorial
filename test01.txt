@@ -5,3 +5,5 @@ branch add develop/deogs
 push develop/deogs
 
 macbook push develop/deogs
+
+pc modify develop/deogs
