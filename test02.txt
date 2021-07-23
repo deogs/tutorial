@@ -1,0 +1,3 @@
+name : test02
+
+pc add develop/deogs
